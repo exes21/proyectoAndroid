@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">LOGIN JPIR</string>
+    <string name="acceder">ACCEDER A LA RED WI-FI</string>
+    <string name="texto1">ingresa Direccin web</string>
+    <string name="texto2">Los servicios de Red Inalámbrica de la PUCMM está regidos por "las Políticas de Uso Aceptable", si no conoce las mismas o si desea mayor información al respecto, favor de visitar el enlace:</string>
+    <string name="texto3">Las credenciales para poder utilizar el recurso son las siguientes:</string>
+    <string name="texto4">-Para estudiantes y docente, la misma que usan para acceder al WebSISE. Por ejemplo, 20060050 o pj.garcia.</string>
+    <string name="texto5">-Para invitados, la que le entregue el departamento que lo recibió en la institución</string>
+    <string name="texto6">Actualmente está intentando acceder a:</string>
+    <string name="usuario">Usuario:</string>
+    <string name="pass">Contraseña:</string>
+    <string name="terminos">He leído y acepto las políticas de uso aceptable</string>
+    <string name="conectarse">Conectarse</string>
+    <string name="texto7">Si está presentndo inconvenientes para acceder a este recurso, favor de conmunicarse con la Unidad de Administracin de Redes, Tel. (809)580-1962 ext. 4111 o escribiéndonos a la dirección stwifi@pucmm.edu.do</string>
+    <string name="https_www_google_com_do">https://www.google.com.do</string>
+    <string name="para_conocer_las_politicas_y_condiciones_acceder_al_siguiente_enlance">Para conocer las politicas y condiciones acceder al siguiente enlance.</string>
+</resources>
